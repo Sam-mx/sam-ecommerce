@@ -63,4 +63,3 @@ export const fetchDoc = async <T>(args: {
 
   return doc
 }
-

@@ -100,4 +100,3 @@ export const fetchGlobals = async (): Promise<{
     footer,
   }
 }
-
