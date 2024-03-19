@@ -20,7 +20,7 @@ export const inclusions = [
     icon: '/assets/icons/payment.svg',
   },
 ]
-  
+
 export const profileNavItems = [
   {
     title: 'Personal Information',
@@ -43,5 +43,5 @@ export const profileNavItems = [
     icon: '/assets/icons/logout.svg',
   },
 ]
-  
+
 export const noHeaderFooterUrls = ['/create-account', '/login', '/recover-password']
