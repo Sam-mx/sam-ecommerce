@@ -47,3 +47,4 @@ export const getMe = async (args?: {
     token,
   }
 }
+
