@@ -2,7 +2,7 @@
 
 ## Descriptions
 
-Build and Deploy a Responsive Full Stack E-Commerce App with an Admin Dashboard & CMS in 2024 | Next 14, Stripe.
+Build and Deploy a Responsive Full Stack E-Commerce App with an Admin Dashboard & CMS in 2024 | Next 14, Stripe. I'm grateful to "Javamastery" on YouTube for the ideas and motivation.
 
 ## Tech Stacks Used:
 - HTML
